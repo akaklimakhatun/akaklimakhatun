@@ -6,6 +6,6 @@
 
 🤝 Looking to collaborate on Remote Job opportunities with any reputed Company
 
-📂 Explore my Data Analysis Projects: [Add your portfolio/GitHub/LinkedIn link here]
+📂 Explore my Data Analysis Projects: [https://github.com/akaklimakhatun?tab=repositories]
 
 📧 How to reach me: aklimakhatun39.bd@gmail.com
