@@ -1,24 +1,22 @@
-👋 Hello, I am Mst. Aklima Khatun
+![I am Data Analyst Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQG_MViDiInBsw/profile-displaybackgroundimage-shrink_350_1400/B56ZZZrrUwHQAg-/0/1745261352214?e=1769040000&v=beta&t=rMOzEKXV0pzeNiDbFn1wVShtU7nktgbH4DRY67DCU2Q)
 
-💻 Data Analyst Enthusiast
+### Hi there 👋, My name is Mst. Aklima Khatun
+#### I am Data Analyst Enthusiast
 
-📚 Currently learning Data Analysis
+With a strong passion for data analytics. I have gained hands-on experience with key tools and technologies, including:
 
-🤝 Looking to collaborate on Remote Job opportunities with any reputed Company
+SQL: Efficiently querying and managing databases.
 
-📂 Explore my Data Analysis Projects: [https://github.com/akaklimakhatun?tab=repositories]
+Power BI: Creating impactful data visualizations and dashboards.
 
-📧 How to reach me: aklimakhatun39.bd@gmail.com
-<div align="left">
-  <a href="https://www.linkedin.com/in/akaklimakhatun" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/akaklimakhatun" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/ak.aklimakhatun" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+Advanced Excel: Performing data analysis and complex calculations.
 
-###
+I am eager to apply my skills to help organizations make data-driven decisions and uncover valuable insights. I look forward to connecting with professionals in the field and exploring new opportunities!
+
+Skills: SQL / Metabase / Power BI / Excel 
+
+- 🌱 I’m currently learning Data Analysis 
+- 👯 I’m looking to collaborate on Github 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akaklimakhatun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akaklimakhatun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/akaklimakhatun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ak.aklimakhatun/)  
