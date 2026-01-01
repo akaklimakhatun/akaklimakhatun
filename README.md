@@ -13,7 +13,7 @@ Advanced Excel: Performing data analysis and complex calculations.
 
 I am eager to apply my skills to help organizations make data-driven decisions and uncover valuable insights. I look forward to connecting with professionals in the field and exploring new opportunities!
 
-Skills: SQL / Metabase / Power BI / Excel 
+### **Skills:** SQL / Metabase / Power BI / Excel 
 
 - 🌱 I’m currently learning Data Analysis 
 - 👯 I’m looking to collaborate on Github 
